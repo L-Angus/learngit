@@ -24,6 +24,7 @@
 
 13. git checkout -b dev // create a new branch
 
+14. git checkout <branch name> // switch to other branch
 
 
 
