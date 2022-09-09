@@ -26,6 +26,8 @@
 
 14. git checkout <branch name> // switch to other branch
 
+15. git merge <branch name> // fast merge
+
 
 
 
