@@ -28,7 +28,13 @@
 
 15. git merge <branch name> // fast merge
 
+16. git log --graph --pretty=oneline
 
+17. git merge --no-ff -m "no fast-forward merge" dev
 
+18. git stash // save branch temperally
 
+19. git stash list // stash list
+ 
+20. git stash pop // pop up stash context
 
