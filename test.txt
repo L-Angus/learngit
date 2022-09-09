@@ -1,1 +1,2 @@
 This a git test text file.
+This is master branch
