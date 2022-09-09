@@ -38,3 +38,4 @@
  
 20. git stash pop // pop up stash context
 
+21. eval "$(ssh-agent -s)" ---> ssh-add
