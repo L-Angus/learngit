@@ -10,3 +10,22 @@
 
 6. git status
 
+7. git checkout -- <file> ---> drop modify
+
+8. git reset HEAD <file> ---> drop staged.
+
+9. git diff HEAD -- <file> // git diff HEAD^ HEAD
+
+10. rm <file> ---> delete file // git rm <file> ---> delete & stage file
+
+11. git log --pretty=oneline // show fully
+
+12. git branch // show all branches
+
+13. git checkout -b dev // create a new branch
+
+
+
+
+
+
